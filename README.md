@@ -2,7 +2,9 @@
 
 Place to store teaching materials and resources relating to LEADING fellowship
 
-For relevant resources for querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
+## Relevant Resources
+
+For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
 
 # Curriculum
 
