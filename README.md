@@ -30,23 +30,25 @@ For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS
 
 * Intro to Python with Google Colab Notebooks
 
-# Week 3 
+## Week 3 
 
-## Working with Github and Github Pages
+### Working with Github and Github Pages
 
 * Basics of Git
 * Github Pages
 * Web frameworks
 
-# Week 4 
+## Week 4 
 
-## Building a Website with Github
+### Developing a Website with Github
 
 * Deciding on a Web Framework
 * Building the Skeleton
 * Web design principles
 
-# Week 5
+## Week 5
+
+### Website Design
 
 * Documenting wikidata or 3d modeling work
 * Generating content for the website
