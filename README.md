@@ -4,24 +4,36 @@ Place to store teaching materials and resources relating to LEADING fellowship
 
 # Curriculum
 
-Week 1 - Project Overview and Intro to Wikidata
+## Week 1 
 
-Introduction to Tracks
+### Project Overview and Intro to Wikidata
+
+* Introduction to Tracks
  - Photogrammetry with Polycam and Blender
  - Story Mapping with ArcGIS StoryMaps
  - Unity for Android
  - Wikidata and SPARQL/Python data viz
 
-Overview of Editing Wikidata
+* Overview of Editing Wikidata
 
-Overview of Editing Github
+* Overview of Editing Github
 
-Week 2 - Querying Wikidata with SPARQL and Python 
+## Week 2 
 
-Intro to Sparql
+### Querying Wikidata with SPARQL and Python 
 
-Intro to Python with Google Colab Notebooks
+* Intro to Sparql
 
-Week 3 - Working with Github and Github Pages
+* Intro to Python with Google Colab Notebooks
 
-Week 4 - Building a Website with Github
+# Week 3 
+
+## Working with Github and Github Pages
+
+* Basics of Git
+* Github Pages
+* Web frameworks
+
+# Week 4 
+
+## Building a Website with Github
