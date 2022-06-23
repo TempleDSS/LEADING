@@ -1,6 +1,8 @@
-# LEADING
+# LEADING Fellowship on Mapping Black Philly Art
 
 Place to store teaching materials and resources relating to LEADING fellowship
+
+For relevant resources for querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
 
 # Curriculum
 
@@ -37,3 +39,13 @@ Place to store teaching materials and resources relating to LEADING fellowship
 # Week 4 
 
 ## Building a Website with Github
+
+* Deciding on a Web Framework
+* Building the Skeleton
+* Web design principles
+
+# Week 5
+
+* Documenting wikidata or 3d modeling work
+* Generating content for the website
+
