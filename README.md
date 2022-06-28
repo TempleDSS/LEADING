@@ -6,7 +6,7 @@ Place to store teaching materials and resources relating to LEADING fellowship
 
 For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
 
-Four-part Project Overview on Scholars Studio blog:
+For background on this project, see the four blog posts on the Scholars Studio blog:
 
 [Designing a Wikidata Project: Mapping Black Philly Art](https://sites.temple.edu/tudsc/2021/12/15/designing-wikidata/)
 
