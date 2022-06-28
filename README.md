@@ -2,6 +2,8 @@
 
 Place to store teaching materials and resources relating to LEADING fellowship
 
+LEADING Fellows will document the workflow here.
+
 ## Relevant Resources
 
 For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
