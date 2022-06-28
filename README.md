@@ -12,15 +12,18 @@ For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS
 
 ### Project Overview and Intro to Wikidata
 
+* Overview of Editing Github
+ * Permissions
+ * Documentation
+ * Tutorials
+ 
 * Introduction to Tracks
- - Photogrammetry with Polycam and Blender
- - Story Mapping with ArcGIS StoryMaps
- - Unity for Android
- - Wikidata and SPARQL/Python data viz
+ * Photogrammetry with Polycam and Blender
+ * Story Mapping with ArcGIS StoryMaps
+ * Unity for Android
+ * Wikidata and SPARQL/Python data viz
 
 * Overview of Editing Wikidata
-
-* Overview of Editing Github
 
 ## Week 2 
 
