@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://templedss.github.io/LEADING'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'LEADING'
 theme = "ananke"
