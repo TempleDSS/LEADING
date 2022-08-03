@@ -1,4 +1,4 @@
-baseURL = 'http://templedss.github.io/LEADING'
+baseURL = 'https://templedss.github.io/LEADING/'
 languageCode = 'en-us'
 title = 'LEADING'
 theme = "ananke"

@@ -1,8 +1,8 @@
-# LEADING Fellowship on Mapping Black Philly Art
-
-Place to store teaching materials and resources relating to LEADING fellowship
-
-LEADING Fellows will document the workflow here.
+---
+title: "Resources"
+date: 2022-07-26T14:30:34-04:00
+draft: false
+---
 
 ## Relevant Resources
 
