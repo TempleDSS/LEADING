@@ -6,7 +6,9 @@ draft: false
 
 ## Black Philly Artists in Wikidata
 
+
 For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
+
 
 For background on this project, see the four blog posts on the Scholars Studio blog:
 
