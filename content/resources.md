@@ -4,7 +4,7 @@ date: 2022-07-26T14:30:34-04:00
 draft: false
 ---
 
-## Relevant Resources
+## Black Philly Artists in Wikidata
 
 For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
 
