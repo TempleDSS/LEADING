@@ -2,6 +2,7 @@ baseURL = 'https://templedss.github.io/LEADING/'
 languageCode = 'en-us'
 title = 'Mapping Black Philly Art'
 theme = "ananke"
+canonifyURL = true
 
 [menu]
     [[menu.main]]

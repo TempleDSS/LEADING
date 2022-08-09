@@ -6,6 +6,7 @@ draft: false
 
 ## Black Philly Artists in Wikidata
 
+![Park Bench](/parkbench.png)
 
 For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
 
