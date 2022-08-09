@@ -1,6 +1,12 @@
 # LEADING Fellowship on Mapping Black Philly Art
 
-Place to store teaching materials and resources relating to LEADING fellowship
+First draft of Hugo website for this project. 
+
+To clone this repo, use the following command:
+
+```
+git clone --recursive https://github.com/TempleDSS/LEADING.git
+```
 
 LEADING Fellows will document the workflow here.
 
@@ -16,10 +22,5 @@ For background on this project, see the four blog posts on the Scholars Studio b
 
 [Querying Wikidata with SPARQL](https://sites.temple.edu/tudsc/2021/12/15/querying-wikidata/)
 
-<<<<<<< HEAD
-[Visualizing Wikidata: Using Python to Analyze Identity and Representation in Wikidata about Black Art Exhibitions](https://sites.temple.edu/tudsc/2022/01/24/visualizing-wikidata-using-python-to-analyze-identity-and-representation-in-wikidata-about-black-art-exhibitions/)
-=======
 [Visualizing Wikidata: Using Python to Analyze Identity and Representation in Wikidata about Black Art Exhibitions](https://sites.temple.edu/tudsc/2022/01/24/visualizing-wikidata-using-python-to-analyze-identity-and-representation-in-wikidata-about-black-art-exhibitions/)
 
-
->>>>>>> refs/remotes/origin/main
