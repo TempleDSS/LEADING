@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Project Website"
-featured_image: "/images/parkbench.png"
+featured_image: "/parkbench.png"
 menu:
   main:
     weight: 1
