@@ -1,11 +1,10 @@
 ---
 title: "About"
-description: "A website to map black philly art"
+description: "Project Website"
 featured_image: "/images/parkbench.png"
 menu:
   main:
     weight: 1
-draft: false
 ---
 
 {{< figure src="parkbench.png" title="Sample work of art" >}}

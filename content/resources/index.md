@@ -1,7 +1,6 @@
 ---
 title: "Resources"
 date: 2022-07-26T14:30:34-04:00
-draft: false
 featured_image: "/images/parkbench.png"
 ---
 
