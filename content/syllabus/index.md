@@ -2,9 +2,12 @@
 title: "Syllabus"
 date: 2022-07-26T14:30:34-04:00
 draft: false
+featured_image: "/images/parkbench.png"
 ---
 
 # Curriculum
+
+{{< figure src="parkbench.png" title="Sample work of art" >}}
 
 ## Week 1 
 

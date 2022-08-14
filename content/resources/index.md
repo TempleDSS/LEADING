@@ -2,11 +2,12 @@
 title: "Resources"
 date: 2022-07-26T14:30:34-04:00
 draft: false
+featured_image: "/images/parkbench.png"
 ---
 
 ## Black Philly Artists in Wikidata
 
-![Park Bench](/parkbench.png)
+{{< figure src="parkbench.png" title="Sample work of art" >}}
 
 For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS/Wikidata
 
