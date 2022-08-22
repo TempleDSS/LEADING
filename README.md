@@ -1,8 +1,8 @@
 ## Project Website for Mapping Black Philly Art
 
-This is a first draft of Hugo website for this project. L
+This is a first draft of Hugo website for this project. 
 
-EADING Fellows will document the workflow here and add further content about Wikidata, Mapping, and 3D modeling of public art.
+LEADING Fellows will document the workflow here and add further content about Wikidata, Mapping, and 3D modeling of public art.
 
 ## Editing
 
