@@ -14,3 +14,4 @@ The project team includes:
 Synatra Smith, Philadelphia Museum of Art  
 Alex Wermer-Colan, Temple University  
 Holly Tomren, Temple University  
+Eiman Ahmed, Rutgers University
