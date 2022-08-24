@@ -1,9 +1,10 @@
 ---
-date: 2017-04-11T11:13:32-04:00
-description: "Monsieur the Cardinal"
-featured_image: "/parkbench.png"
-tags: []
+date: 2022-08-22T11:13:32-04:00
+description: "Python is a high-level programming language that can be used for several purposes For this project, Python was used alongside SPARQL to query Wikidata"
+featured_image: "/python-programming-language.png"
+tags: [python]
 title: "Python"
 ---
 
-Python allows us to query the Wikidata API easily.
+
+

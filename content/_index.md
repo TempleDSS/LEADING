@@ -6,5 +6,3 @@ cascade:
   featured_image: '/parkbench.png'
 ---
 {{< figure src="parkbench.png" title="Sample work of art" >}}
-
-Home test
