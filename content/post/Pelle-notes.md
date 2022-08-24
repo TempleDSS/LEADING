@@ -3,7 +3,7 @@ title: "Pelle Notes"
 date: 2022-08-23T10:19:26-04:00
 draft: false
 urlcolor: blue
-featured_image: "/hugo.logo.png"
+featured_image: "/hugologo.png"
 ---
 
 # Pelle's Notes:
