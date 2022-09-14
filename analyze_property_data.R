@@ -40,12 +40,12 @@ cor.test(property_data$zip_code, property_data$market_value,
 
 #A heatmap is created to better see how market value of homes differ based
 #on location in the city
-google_key = "AIzaSyB9-X0ePY0Y_CfpkEjgSCYqBKguryTI8gs" #Enter your key here
+google_key = "" #Enter your key here
 register_google(key = google_key)
 map_philly <- get_map('Philadelphia', zoom = 12)
 
 subset_property <- property_data[,c("market_value","lng","lat")]
 
 ggmap(map_philly) +
-  stat_density2d(data = subset_property, aes(x = lat, y = lng, fill = ..level..), 
+  stat_density2d(data = subset_property, aes(x = lng, y = lat, fill = ..level..), 
                  geom = 'tile', contour = F, alpha = .5) +  scale_fill_viridis()
