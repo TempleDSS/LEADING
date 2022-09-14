@@ -13,9 +13,18 @@ For querying Wikidata, see our Wikidata repository: https://github.com/TempleDSS
 
 For background on this project, see the four blog posts on the Scholars Studio blog:
 
-[Designing a Wikidata Project: Mapping Black Philly Art](https://sites.temple.edu/tudsc/2021/12/15/designing-wikidata/)
+{{< figure src="Wikidata.png" title="" >}}
 
-[Editing in the World of Wikidata: What Does It Mean?](https://sites.temple.edu/tudsc/2021/12/15/editing-wikidata/)
+### [Designing a Wikidata Project: Mapping Black Philly Art](https://sites.temple.edu/tudsc/2021/12/15/designing-wikidata/)
+
+*Curious about Wikidata but not sure where to start? In this beginner-friendly blog post, Dr. Synatra Smith explains how to get started with a Wikidata project. Beginning with a brief explanation of Wikidata, she outlines four stages of designing a project: Define the objective and scope, Identify data sources, Research and blogging, and Seek opportunities for collaboration. With lots of links to helpful external sources, this is a great place to start!*
+
+
+{{< figure src="wiki.edit.png" title="" >}}
+
+### [Editing in the World of Wikidata: What Does It Mean?](https://sites.temple.edu/tudsc/2021/12/15/editing-wikidata/)
+
+*In this blog post, LEADING Fellow Dr. Rebecca Y. Bayeck explains the basics of editing Wikidata. She provides a step by step guide to help a new user from account creation to understanding the difference between statements and properties. She also explains how to use Openrefine, an open source application, to edit Wikidata quickly.*
 
 [Querying Wikidata with SPARQL](https://sites.temple.edu/tudsc/2021/12/15/querying-wikidata/)
 
